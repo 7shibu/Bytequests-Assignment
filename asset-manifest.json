@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bytequests-Assignment/static/css/main.27c1cc80.css",
+    "main.js": "/Bytequests-Assignment/static/js/main.8a841e4e.js",
+    "index.html": "/Bytequests-Assignment/index.html",
+    "main.27c1cc80.css.map": "/Bytequests-Assignment/static/css/main.27c1cc80.css.map",
+    "main.8a841e4e.js.map": "/Bytequests-Assignment/static/js/main.8a841e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c1cc80.css",
+    "static/js/main.8a841e4e.js"
+  ]
+}
